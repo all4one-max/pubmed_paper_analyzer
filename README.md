@@ -1,6 +1,11 @@
 ## DEMO VIDEO
 https://drive.google.com/file/d/1biXg6oKDgnNDYzATa_wcstsg3Co6hG97/view?usp=sharing
 
+## ITEM DELIVERY
+1. 5 samples downloaded papers available inside data/downloaded_papers
+1. 5 samples corresponding summaries available inside data/summaries
+1. 5 samples corresponding result table available inside data/extracted_tables
+
 ## Setup Instructions
 
 1. Clone the Repository First, clone the repository to your local machine:
