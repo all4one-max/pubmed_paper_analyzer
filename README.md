@@ -1,4 +1,4 @@
-## DEMO
+## DEMO VIDEO
 https://drive.google.com/file/d/1biXg6oKDgnNDYzATa_wcstsg3Co6hG97/view?usp=sharing
 
 ## Setup Instructions
