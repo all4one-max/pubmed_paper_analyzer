@@ -1,0 +1,27 @@
+Gene,Erythropoiesis expression/function,Fold change Cd47-/-/WT,T statistic,p value
+Ermap,extramedullary erythropoiesis marker1,21.5,6.04,9.53 x 10^-4
+Tal1,"extramedullary erythropoiesis marker1,21",13.9,5.13,3.82 x 10^-4
+Gp9a,extramedullary erythropoiesis marker1,8.3,6.86,5.3 x 10^-4
+Klf1,extramedullary erythropoiesis marker1,29.0,4.61,6.80 x 10^-4
+Slc0a1,extramedullary erythropoiesis marker1,151.4,4.90,5.10 x 10^-4
+Kit,extramedullary erythropoiesis marker1,20.4,5.06,3.96 x 10^-4
+Cdk13,extramedullary erythropoiesis marker1,49.2,4.42,1.09 x 10^-3
+Trim10,extramedullary erythropoiesis marker1,49.7,4.11,1.80 x 10^-3
+Epor,extramedullary erythropoiesis marker1,12.3,4.91,5.04 x 10^-4
+Spbb,extramedullary erythropoiesis marker1,30.5,5.21,3.83 x 10^-4
+Hba-x,extramedullary erythropoiesis marker1,33.0,4.24,7.38 x 10^-4
+Hbera1,erythroblast,63.8,5.64,2.54 x 10^-4
+Hba-b-1,erythroblast,59.2,4.36,4.34 x 10^-4
+Gata1,BFU-E through erythroblasts,7.69,4.60,8.10 x 10^-4
+Tfrc(CD71),CFU-E through erythroblasts,3.12,4.19,7.38 x 10^-4
+Kit,Progenitors through CFU-E,1.72,6.28,9.71 x 10^-4
+Slca4,Adult definitive erythropoiesis,35.5,3.56,9.00 x 10^-4
+Ap2,Adult definitive erythropoiesis,26.9,6.51,4.79 x 10^-4
+Mdc2,Adult definitive erythropoiesis,1.12,2.60,0.018
+Mki67,Proliferation marker,4.43,7.86,1.63 x 10^-4
+Cd34,Multipotent progenitors through CFU-E,1.17,1.59,0.131
+Ly6a (Sca1),Multipotent progenitors,1.17,1.02,0.224
+Anepp (CD13),Multipotent progenitors,1.16,1.14,0.187
+Cd33,Multipotent progenitors,-1.06,-0.37,0.711
+Gata2,Multipotent progenitors,1.08,0.52,0.648
+Xpo1,Stability of nuclear Gata1,1.23,3.86,2.71 x 10^-3
