@@ -8,9 +8,9 @@ asyncio = "==3.4.3"
 httpx = "==0.28.1"
 beautifulsoup4 = "==4.12.3"
 openai = "==1.60.1"
-pymupdf = "*"
-fastapi = {extras = ["standard"], version = "*"}
-backoff = "*"
+pymupdf = "==1.25.2"
+fastapi = {extras = ["standard"], version = "==0.115.7"}
+backoff = "==2.2.1"
 
 [dev-packages]
 
